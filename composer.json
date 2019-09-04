@@ -1,0 +1,11 @@
+{
+    "name": "tarranjones/yii2-gii",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "tarranjones",
+            "email": "tarrandavidjones@gmail.com"
+        }
+    ],
+    "require": {}
+}
