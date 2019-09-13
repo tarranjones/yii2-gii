@@ -116,18 +116,13 @@ class Generator extends \yii\gii\Generator
             'Development' => [
                 'path' => 'dev',
                 'setWritable' => [],
-                'setExecutable' => [
-                    'yii',
-                    'yii_test',
-                ],
+                'setExecutable' => [],
                 'setCookieValidationKey' => [],
             ],
             'Production' => [
                 'path' => 'prod',
                 'setWritable' => [],
-                'setExecutable' => [
-                    'yii',
-                ],
+                'setExecutable' => [],
                 'setCookieValidationKey' => [],
             ],
         ];
